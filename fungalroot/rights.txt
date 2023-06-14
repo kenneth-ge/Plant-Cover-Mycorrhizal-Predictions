@@ -1,0 +1,2 @@
+Dataset: Taxon occurrence data for the FungalRoot database 
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode

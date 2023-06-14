@@ -1,0 +1,27 @@
+plant phenology images -- measure greening, albedo changes, etc. 
+	graph change in color over time
+	also play back as a movie
+	compare noon to noon -- use weather/solar data to determine which snapshot pictures to use
+		http://www.spot-on-sundials.co.uk/calculator.html
+
+	cloud cover??? how to account for that
+
+	white balance corrections, etc. 
+
+mycorrhizal fungi data for 2016-2018: https://data.neonscience.org/data-products/DP1.10108.001
+
+plant presence and percent cover
+	https://data.neonscience.org/data-products/DP1.10058.001
+	which species, and how abundant -- see if there is a correlation 
+	colonization rate -- how mycorrhizal
+		research on specific
+
+	linear model between plant presence (what percent is each plant) and amonut of mycorrhizal fungal mass
+		approximate colonization rate
+
+		3 data points per site per year (but only 1 year of data available untli end of 2023)
+
+	network analysis -- how networks are used
+
+eddy covariance towers -- measuring air carbon (CO2 and CH4)
+	correlate with phenology/color -- see if the net carbon intake/outtake changes depending on time
