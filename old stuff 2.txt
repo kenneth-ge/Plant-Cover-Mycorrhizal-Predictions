@@ -1,0 +1,5 @@
+- plotting percent cover of each mycorrhizal type
+- finding the majority type for each site
+- using NMDS for clustering and seeing if there are trends/patterns
+- predicting mycorrhizal type by precipitation, soil ph (big one), soil moisture, geography, other climate factors
+- using temporary sites for testing

@@ -1,0 +1,6 @@
+summarize plant communities
+* percentage of each plant species or plant functional group
+	* structural functional group: trees, non-trees
+	* genera, families
+
+why are the plant communities different? can we build a model to predict plant communities based on 

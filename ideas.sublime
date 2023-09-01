@@ -1,3 +1,37 @@
+occurrences.txt - genus and specificEpithet
+	look up the id in "identifier" column
+go into measurements.csv
+find all the rows that match "Core ID" and where "Mycorrhiza type" is in second column
+
+search in fungalroot
+mycodb as backup
+use family/genera in fungalroot
+use family in mycodb
+
+
+AM
+NM (non)
+EM/EcM
+
+---classified as other, unless a site has a lot---
+OM (orchid) - fairly rare percent cover-wise
+ErM (shrubs) - mainly Alaska sites
+
+
+buliding a model to predict majority type
+clustering and plot the type as colors on NMDS plot
+plotting based on environmental factors, coloring, seeing if there's clusters (classification by clustering)
+
+
+
+
+
+
+
+
+
+
+
 plant phenology images -- measure greening, albedo changes, etc. 
 	graph change in color over time
 	also play back as a movie
